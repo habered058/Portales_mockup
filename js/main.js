@@ -1,0 +1,1 @@
+let imagenes = ["1", "2"]
